@@ -2,16 +2,17 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome:Izabela Ribeiro Camara Matricula:737464
 
 ## Tela de inspeção com navegador
 
 `<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Print da tela de inspeção](images/rede_portal.png)
 
 ## Tela de projeto no Replit
-
+123
 `<Coloque aqui o print da tela do projeto no Replit>`
+![Print da tela do projeto](images/hello_world.png)
 
 
 ## Orientações sobre Linguagem MarkDown
